@@ -1,0 +1,24 @@
+name: vrb
+channels:
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - ca-certificates=2023.01.10=h06a4308_0
+  - ld_impl_linux-64=2.38=h1181459_1
+  - libffi=3.3=he6710b0_2
+  - libgcc-ng=9.1.0=hdf63c60_0
+  - libstdcxx-ng=9.1.0=hdf63c60_0
+  - ncurses=6.3=h7f8727e_2
+  - openssl=1.1.1t=h7f8727e_0
+  - pip=23.0.1=py39h06a4308_0
+  - python=3.9.12=h12debd9_1
+  - readline=8.1.2=h7f8727e_1
+  - setuptools=66.0.0=py39h06a4308_0
+  - sqlite=3.38.5=hc218d9a_0
+  - tk=8.6.12=h1ccaba5_0
+  - tzdata=2023c=h04d1e81_0
+  - wheel=0.38.4=py39h06a4308_0
+  - xz=5.2.5=h7f8727e_1
+  - zlib=1.2.12=h7f8727e_2
+prefix: /home/sbahl2/anaconda3/envs/vrb
+
